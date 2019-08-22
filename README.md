@@ -4,6 +4,12 @@ To compile the application
 mvn clean package
 ```
 
+To run the application
+
+```bash
+KPI_DATABASE_URL=http://influxdb-url KPI_DATABASE_PASSWORD=password KPI_DATABASE_USERNAME=username mvn spring-boot:run
+```
+
 To dockerize the application
 
 ```bash
