@@ -1,3 +1,9 @@
+To compile the application
+
+```
+mvn clean package
+```
+
 To dockerize the application
 
 ```bash
