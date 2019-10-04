@@ -31,3 +31,10 @@ Then you can use the proxy functionality
 ```bash
 curl http://localhost:8080/positions.json?page=0
 ```
+
+You can monitor the service health status with the following endpoint
+
+```bash
+curl http://localhost:8080/actuator/health
+```
+
