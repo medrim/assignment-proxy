@@ -1,3 +1,5 @@
+In order to use the project you need to have [Java 8](https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html) installed as well as [Maven](http://maven.apache.org/).
+
 To compile the application
 
 ```
